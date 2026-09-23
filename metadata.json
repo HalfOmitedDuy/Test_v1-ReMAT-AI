@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Re:Mat AI",
+  "description": "Nền tảng B2B AI kết nối cung–cầu phế phẩm và nguyên liệu thứ cấp công nghiệp - Vòng đời mới cho vật liệu cũ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
